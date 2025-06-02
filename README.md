@@ -1,5 +1,9 @@
 # OpenAI-Chatbot
 
+
+https://github.com/user-attachments/assets/b23be52f-9239-4b36-87de-e5fa53553e2c
+
+
 ### Mini-Project: Build a ChatGPT Clone
 Overview:
 
